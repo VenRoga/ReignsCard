@@ -1,0 +1,7 @@
+D:\For_Sharp\Sharp_Projects\Shapes_for_LINQ\Shapes_for_LINQ\obj\Debug\Shapes_for_LINQ.csproj.AssemblyReference.cache
+D:\For_Sharp\Sharp_Projects\Shapes_for_LINQ\Shapes_for_LINQ\obj\Debug\Shapes_for_LINQ.csproj.CoreCompileInputs.cache
+D:\For_Sharp\Sharp_Projects\Shapes_for_LINQ\Shapes_for_LINQ\bin\Debug\Shapes_for_LINQ.exe.config
+D:\For_Sharp\Sharp_Projects\Shapes_for_LINQ\Shapes_for_LINQ\bin\Debug\Shapes_for_LINQ.exe
+D:\For_Sharp\Sharp_Projects\Shapes_for_LINQ\Shapes_for_LINQ\bin\Debug\Shapes_for_LINQ.pdb
+D:\For_Sharp\Sharp_Projects\Shapes_for_LINQ\Shapes_for_LINQ\obj\Debug\Shapes_for_LINQ.exe
+D:\For_Sharp\Sharp_Projects\Shapes_for_LINQ\Shapes_for_LINQ\obj\Debug\Shapes_for_LINQ.pdb
